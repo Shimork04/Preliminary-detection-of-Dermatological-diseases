@@ -76,6 +76,7 @@ The performance of the machine learning models is evaluated using standard metri
 
 ## Contributing
 
+Colaborator: https://github.com/VeedantBrahmbhatt
 Contributions to the Preliminary Detection of Dermatological Diseases project are welcome! If you'd like to contribute, please follow these guidelines:
 
 1. Fork the repository
