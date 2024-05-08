@@ -74,10 +74,11 @@ The model training dataset consists of thousands of annotated images of various 
 
 The performance of the machine learning models is evaluated using standard metrics such as accuracy, precision, recall, and F1-score. Additionally, user feedback and expert evaluation are used to assess the platform's effectiveness in providing accurate and timely diagnoses.
 
-## Contributing
+## Colaborators 
 
-Colaborator: https://github.com/VeedantBrahmbhatt
-Contributions to the Preliminary Detection of Dermatological Diseases project are welcome! If you'd like to contribute, please follow these guidelines:
+Veedant Brahmbhatt : [GitHub](https://github.com/VeedantBrahmbhatt)
+
+## Contributions
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature`)
