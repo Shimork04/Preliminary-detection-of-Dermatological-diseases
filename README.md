@@ -1,1 +1,2 @@
-# Preliminary-detection-of-Dermatological-diseases
+# Preliminary-Detection-of-Dermatological-diseases
+A Telemedicine solution for preliminary detection of fatal skin diseases using machine learning model. 
